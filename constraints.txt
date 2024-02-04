@@ -1,0 +1,5 @@
+openai==1.9.0
+pydantic==2.5.3
+pydantic-core==2.14.6
+sqlalchemy==2.0.25
+streamlit==1.28.2
